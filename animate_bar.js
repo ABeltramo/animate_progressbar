@@ -1,5 +1,5 @@
 (function( $ ) {
-    $.fn.animate_bar = function(value,duration,complete) {
+    $.fn.animate_progressbar = function(value,duration,complete) {
 	   if (value == null)value = 0;
        if (duration == null)duration = 1000;
 	   if (complete == null)complete = function(){};

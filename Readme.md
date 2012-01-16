@@ -8,7 +8,7 @@ Utilizzo
 
 .animate_rogressbar(value,[duration],[complete])
 
-Dopo aver creato un oggetto progressbar ed aver incluso il file .js basterà utilizzare il metodo .animate_rogressbar()
+Dopo aver creato un oggetto progressbar ed aver incluso il file .js baster&agrave utilizzare il metodo .animate_rogressbar()
 
 value = valore dove deve arrivare l'indicatore.
 
