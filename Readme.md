@@ -6,9 +6,9 @@ Piccolo add-on per Jquery che consente di animare la transizione da un valore al
 Utilizzo
 ------
 
-.animate_rogressbar(value,[duration],[complete])
+.animate_progressbar(value,[duration],[complete])
 
-Dopo aver creato un oggetto progressbar ed aver incluso il file .js baster&agrave utilizzare il metodo .animate_rogressbar()
+Dopo aver creato un oggetto progressbar ed aver incluso il file .js baster&agrave; utilizzare il metodo .animate_progressbar()
 
 value = valore dove deve arrivare l'indicatore.
 
